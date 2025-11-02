@@ -1,0 +1,152 @@
+[
+  {
+    "cmd": "anisearch",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "aniwall",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "font",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "cdp",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "boysmatchingdp",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "sakura",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "shizuka",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "video2audio",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "say",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "tiktok",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "age",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "imagedetail",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "gist",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "imgbb",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "qrcode",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "mistake",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "time",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "calculator",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "calendar",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "flag",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "autodl",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "cat",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "dog",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "fox",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "duck",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  }
+]
