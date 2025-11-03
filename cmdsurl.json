@@ -1,4 +1,5 @@
 {
+  "cmdstore": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/cmdstore.js", 
   "animesearch": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animesearch.js",
   "animewallpaper": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animewallpaper.js",
   "animevideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animevideo.js",
