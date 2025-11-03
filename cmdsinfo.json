@@ -1,12 +1,12 @@
 [
   {
-    "cmd": "anisearch",
+    "cmd": "animesearch",
     "author": "Saimx69x",
     "update": "2025-11-02",
     "status": "on"
   },
   {
-    "cmd": "aniwall",
+    "cmd": "animewallpaper",
     "author": "Saimx69x",
     "update": "2025-11-02",
     "status": "on"
@@ -151,6 +151,12 @@
   },
   {
     "cmd": "duck",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
+    "cmd": "catbox",
     "author": "Saimx69x",
     "update": "2025-11-02",
     "status": "on"
