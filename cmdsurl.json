@@ -28,5 +28,12 @@
   "duck": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/duck.js",
   "catbox": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/catbox.js",
   "ytstalk": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ytstalk.js",
-  "pending": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pending.js"
+  "pending": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pending.js",
+  "groupinfo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/groupinfo.js",
+  "kiss": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/kiss.js",
+  "kicked": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/kicked.js",
+  "vip": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/vip.js",
+  "viponly": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/viponly.js",
+  "developer": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/developer.js",
+  "selflisten": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/selflisten.js"
 }
