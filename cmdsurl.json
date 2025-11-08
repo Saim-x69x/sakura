@@ -48,5 +48,10 @@
   "pair3": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pair3.js",
   "pair4": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pair4.js",
   "ss": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ss.js",
-  "gif": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gif.js"
+  "gif": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gif.js",
+  "pinterest": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pinterest.js", 
+  "wbquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/wbquiz.js", 
+  "youtube": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/youtube.js",
+  "sing": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/sing.js",
+  "quiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/quiz.js"
 }
