@@ -41,5 +41,12 @@
   "narutoquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/narutoquiz.js",
   "narutovideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/narutovideo.js",
   "aotquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/aotquiz.js",
-  "aotvideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/aotvideo.js"
+  "aotvideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/aotvideo.js",
+  "hug": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/hug.js",
+  "pair": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pair.js",
+  "pair2": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pair2.js",
+  "pair3": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pair3.js",
+  "pair4": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pair4.js",
+  "ss": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ss.js",
+  "gif": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gif.js"
 }
