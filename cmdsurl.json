@@ -3,6 +3,7 @@
   "animesearch": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animesearch.js",
   "animewallpaper": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animewallpaper.js",
   "animevideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animevideo.js",
+  "animequiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animequiz.js",
   "font": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/font.js",
   "cdp": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/cdp.js",
   "boysmatchingdp": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/boysmatchingdp.js",
@@ -53,5 +54,7 @@
   "wbquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/wbquiz.js", 
   "youtube": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/youtube.js",
   "sing": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/sing.js",
-  "quiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/quiz.js"
+  "quiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/quiz.js",
+  "out": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/out.js",
+  "pfp": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pfp.js"
 }
