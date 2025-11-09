@@ -111,7 +111,7 @@ module.exports = {
       userData.exp += rewardExp;
       await usersData.set(event.senderID, userData);
 
-      const correctMsg = await toFont(`🎯 Congratulations! You guessed it right!
+      const correctMsg = await toFont(`🎯 Sugoi! You guessed it right!
 
 ✅ Correct Answer!
 💰 +${rewardCoin} Coins
