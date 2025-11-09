@@ -25,6 +25,12 @@
     "status": "on"
   },
   {
+    "cmd": "animequiz",
+    "author": "Saimx69x",
+    "update": "2025-11-02",
+    "status": "on"
+  },
+  {
     "cmd": "font",
     "author": "Saimx69x",
     "update": "2025-11-02",
@@ -329,6 +335,18 @@
     "author": "Saimx69x",
     "update": "2025-11-08",
     "status": "on"
-   }
+   }, 
+   {
+    "cmd": "out",
+    "author": "Saimx69x",
+    "update": "2025-11-09",
+    "status": "on"
+  },
+  {
+    "cmd": "pfp",
+    "author": "Saimx69x",
+    "update": "2025-11-09",
+    "status": "on"
+  }
   ]
 }
