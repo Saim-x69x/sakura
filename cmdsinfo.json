@@ -343,9 +343,21 @@
     "status": "on"
   },
   {
-    "cmd": "pfp",
+    "cmd": "slot",
     "author": "Saimx69x",
-    "update": "2025-11-09",
+    "update": "2025-11-12",
+    "status": "on"
+  },
+  {
+    "cmd": "caption",
+    "author": "Saimx69x",
+    "update": "2025-11-12",
+    "status": "on"
+  },
+  {
+    "cmd": "googleimage",
+    "author": "Saimx69x",
+    "update": "2025-11-12",
     "status": "on"
   }
   ]
