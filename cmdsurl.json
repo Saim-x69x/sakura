@@ -56,5 +56,9 @@
   "sing": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/sing.js",
   "quiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/quiz.js",
   "out": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/out.js",
-  "pfp": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pfp.js"
+  "pfp": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pfp.js",
+  "slot": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/slot.js",
+  "caption": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/caption.js", 
+  "googleimage": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/googleimage.js", 
+  "emojimix": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/emojimix.js"
 }
