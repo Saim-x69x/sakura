@@ -60,5 +60,8 @@
   "slot": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/slot.js",
   "caption": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/caption.js", 
   "googleimage": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/googleimage.js", 
-  "emojimix": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/emojimix.js"
+  "emojimix": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/emojimix.js",
+  "ephoto": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ephoto.js", 
+  "jail": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/jail.js",
+  "help": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/help.js"
 }
