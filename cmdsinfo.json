@@ -365,6 +365,24 @@
     "author": "Saimx69x",
     "update": "2025-11-12",
     "status": "on"
+  },
+  {
+    "cmd": "ephoto",
+    "author": "Saimx69x",
+    "update": "2025-11-12",
+    "status": "on"
+  }, 
+  {
+    "cmd": "jail",
+    "author": "Saimx69x",
+    "update": "2025-11-12",
+    "status": "on"
+  },
+  {
+    "cmd": "help",
+    "author": "Saimx69x",
+    "update": "2025-11-12",
+    "status": "on"
   }
   ]
 }
