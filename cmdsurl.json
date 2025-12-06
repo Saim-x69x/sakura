@@ -66,5 +66,6 @@
   "help": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/help.js",
   "flux": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/flux.js",
   "poli": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/poli.js",
-  "imagen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/imagen.js"
+  "imagen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/imagen.js",
+  "raw": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/raw.js"
 }
