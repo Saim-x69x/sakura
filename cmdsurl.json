@@ -64,5 +64,6 @@
   "ephoto": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ephoto.js",
   "jail": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/jail.js",
   "help": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/help.js",
-  "flux": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/flux.js"
+  "flux": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/flux.js",
+  "poli": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/poli.js"
 }
