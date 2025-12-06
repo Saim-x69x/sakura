@@ -1,5 +1,5 @@
 {
-  "cmdstore": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/cmdstore.js", 
+  "cmdstore": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/cmdstore.js",
   "animesearch": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animesearch.js",
   "animewallpaper": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animewallpaper.js",
   "animevideo": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/animevideo.js",
@@ -50,18 +50,19 @@
   "pair4": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pair4.js",
   "ss": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ss.js",
   "gif": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gif.js",
-  "pinterest": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pinterest.js", 
-  "wbquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/wbquiz.js", 
+  "pinterest": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pinterest.js",
+  "wbquiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/wbquiz.js",
   "youtube": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/youtube.js",
   "sing": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/sing.js",
   "quiz": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/quiz.js",
   "out": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/out.js",
   "pfp": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/pfp.js",
   "slot": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/slot.js",
-  "caption": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/caption.js", 
-  "googleimage": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/googleimage.js", 
+  "caption": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/caption.js",
+  "googleimage": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/googleimage.js",
   "emojimix": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/emojimix.js",
-  "ephoto": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ephoto.js", 
+  "ephoto": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/ephoto.js",
   "jail": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/jail.js",
-  "help": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/help.js"
+  "help": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/help.js",
+  "flux": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/flux.js"
 }
