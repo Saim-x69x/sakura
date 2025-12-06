@@ -51,7 +51,7 @@ module.exports = {
 
       const encodedPrompt = encodeURIComponent(prompt);
       const url = `${apiBase}/api/flux?prompt=${encodedPrompt}`;
-      const imgPath = path.join(__dirname, "cache", `imagen3_${event.senderID}.png`);
+      const imgPath = path.join(__dirname, "cache", `flux_${event.senderID}.png`);
 
       const response = await axios.get(url, { responseType: "arraybuffer" });
       fs.writeFileSync(imgPath, response.data);
