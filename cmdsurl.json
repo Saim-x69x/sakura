@@ -65,5 +65,6 @@
   "jail": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/jail.js",
   "help": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/help.js",
   "flux": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/flux.js",
-  "poli": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/poli.js"
+  "poli": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/poli.js",
+  "imagen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/imagen.js"
 }
