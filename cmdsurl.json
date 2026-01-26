@@ -73,5 +73,6 @@
   "rbg": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/rbg.js",
   "gptgen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gptgen.js",
   "geminigen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/geminigen.js",
-  "edit": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/edit.js"
+  "edit": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/edit.js",
+  "4k": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/4k.js"
 }
