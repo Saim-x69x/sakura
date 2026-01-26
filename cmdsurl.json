@@ -71,5 +71,6 @@
   "wanted": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/wanted.js",
   "supportgc": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/supportgc.js",
   "rbg": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/rbg.js",
-  "gptgen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gptgen.js"
+  "gptgen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/gptgen.js",
+  "geminigen": "https://raw.githubusercontent.com/Saim-x69x/sakura/main/cmd/geminigen.js"
 }
